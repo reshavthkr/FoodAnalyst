@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/FoodAnalyst/static/css/main.284f7147.chunk.css",
+    "main.js": "/FoodAnalyst/static/js/main.57462987.chunk.js",
+    "main.js.map": "/FoodAnalyst/static/js/main.57462987.chunk.js.map",
+    "runtime-main.js": "/FoodAnalyst/static/js/runtime-main.ef6faadf.js",
+    "runtime-main.js.map": "/FoodAnalyst/static/js/runtime-main.ef6faadf.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/FoodAnalyst/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.f57891fe.chunk.js": "/FoodAnalyst/static/js/2.f57891fe.chunk.js",
+    "static/js/2.f57891fe.chunk.js.map": "/FoodAnalyst/static/js/2.f57891fe.chunk.js.map",
+    "static/js/3.8ce4b8c3.chunk.js": "/FoodAnalyst/static/js/3.8ce4b8c3.chunk.js",
+    "static/js/3.8ce4b8c3.chunk.js.map": "/FoodAnalyst/static/js/3.8ce4b8c3.chunk.js.map",
+    "index.html": "/FoodAnalyst/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/FoodAnalyst/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.284f7147.chunk.css.map": "/FoodAnalyst/static/css/main.284f7147.chunk.css.map",
+    "static/js/2.f57891fe.chunk.js.LICENSE.txt": "/FoodAnalyst/static/js/2.f57891fe.chunk.js.LICENSE.txt",
+    "static/media/undraw_barbecue_3x93.cc10155f.svg": "/FoodAnalyst/static/media/undraw_barbecue_3x93.cc10155f.svg",
+    "static/media/undraw_breakfast_psiw.c8769e11.svg": "/FoodAnalyst/static/media/undraw_breakfast_psiw.c8769e11.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef6faadf.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.f57891fe.chunk.js",
+    "static/css/main.284f7147.chunk.css",
+    "static/js/main.57462987.chunk.js"
+  ]
+}
