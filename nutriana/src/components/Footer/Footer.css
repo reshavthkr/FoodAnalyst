@@ -1,0 +1,18 @@
+.Footer{
+    background: #c6f19e;
+    padding: 10px;
+    color:#4d4b66;
+    position: sticky;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    /* margin-top: 1px; */
+}
+@media only screen 
+    and (min-device-width: 768px) 
+    and (max-device-width: 1024px) 
+    and (-webkit-min-device-pixel-ratio: 1) {
+        .Footer{
+            position: fixed;
+        }
+    }

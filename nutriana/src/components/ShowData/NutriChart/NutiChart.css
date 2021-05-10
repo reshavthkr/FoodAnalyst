@@ -14,7 +14,7 @@
     font-weight: 300;
     color: #3fc532;
     border-bottom: 10px solid green;
-    margin-top: -1.5rem;
+    margin-top: -1rem;
 }
 .amount{
     text-align: left;
@@ -44,4 +44,15 @@ hr{
 }
 .b{
     font-size: 20px;
+}
+.value{
+    padding: 2px;
+}
+@media only screen and (max-width: 767px) {
+    .Heading{
+        margin-top: 1;
+    }
+    .b{
+        font-size: 17px;
+    }
 }

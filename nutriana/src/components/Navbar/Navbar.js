@@ -5,7 +5,7 @@ import "./Navbar.css"
 
 function Navbar() {
     return (
-        <div className = "NavBar">
+        <div className = "NavBar fixed-nav-bar">
             <Logo className = " logo" />
             <Link className = " link"/>
         </div>

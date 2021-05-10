@@ -2,5 +2,27 @@
     border: 1px solid #3fc532;
     display: flex;
     flex-direction: row;
-    padding: 3rem;
+    padding: 10px;
 }
+h1{
+    color: #4d4b66;
+}
+@media only screen 
+    and (min-device-width: 768px) 
+    and (max-device-width: 1024px) 
+    and (-webkit-min-device-pixel-ratio: 1) {
+        h1{
+            font-size: medium;
+        }
+        .Border{
+            flex-direction: column;
+        }
+    }
+    @media only screen and (max-width: 767px) {
+        .Border{
+            flex-direction: column;
+        }
+        .FormDiv{
+            margin: 0;
+        }
+    }

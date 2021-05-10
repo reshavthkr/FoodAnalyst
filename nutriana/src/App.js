@@ -5,7 +5,7 @@ import Navbar from './components/Navbar/Navbar'
 import Hero from './components/Hero/Hero'
 import ShowData from './components/ShowData/ShowData'
 import tachyons from "tachyons"
-
+import Footer from './components/Footer/Footer'
 
 class App extends Component {
   constructor(){
@@ -14,15 +14,13 @@ class App extends Component {
       entereddata : '',
     }
   }
-  onChange =(event) =>{
-    
-  }
   render(){
     return (
       <div className="App">
         <Navbar />
         <Hero/>
-        <ShowData onchange = {this.onChange}/>
+        <ShowData/>
+        <Footer/>
       </div>
     );
   }

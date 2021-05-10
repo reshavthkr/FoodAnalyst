@@ -1,3 +1,12 @@
+.fixed-nav-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    width: 100%;
+    height: auto;
+    background-color: #f8f8f8;
+  }
 .NavBar{
     position: sticky;
     display: flex;
@@ -8,5 +17,10 @@
     align-items: flex-start;
 }
 .link{
-    align-items: flex-end;
+    align-items: flex-start;
+}
+@media only screen and (max-width: 767px) {
+    .fixed-nav-bar {
+        height: 60px;
+    }
 }

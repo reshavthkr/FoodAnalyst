@@ -19,73 +19,63 @@ function NutriChart(props) {
             </div>
             <div className ="displayinline hrNormal">
             <p className="TotalFat b">Total Fat</p>
-            <p className="">{props.totalfat}</p>
+            <p className="value">{props.totalfat}</p>
             <p className="value">{props.totalfatper}%</p>
             </div>
             <div className ="displayinline hrNormal pl3">
             <p className="">Saturated Fat</p>
-            <p className="">{props.sfat}</p>
-            <p className="">{props.sfatper}%</p>
-            </div>
-            <div className ="displayinline hrNormal pl3">
-            <p className="">Trans Fat</p>
-            <p className="">{props.tfat}</p>
-            <p className="">{props.tfatper}%</p>
+            <p className="value">{props.sfat}</p>
+            <p className="value">{props.sfatper}%</p>
             </div>
             <div className ="displayinline hrNormal ">
             <p className="b">Cholesterol</p>
-            <p className="">{props.Cholesterol}</p>
-            <p className="">{props.Cholesterolper}%</p>
+            <p className="value">{props.Cholesterol}</p>
+            <p className="value">{props.Cholesterolper}%</p>
             </div>
             <div className ="displayinline hrNormal ">
             <p className="b">Sodium </p>
-            <p className="">{props.Sodium}</p>
-            <p className="">{props.Sodiumper}%</p>
+            <p className="value">{props.Sodium}</p>
+            <p className="value">{props.Sodiumper}%</p>
             </div>
             <div className ="displayinline hrNormal ">
             <p className="b">Total Carbohydrate </p>
-            <p className="">{props.Carbs}</p>
-            <p className="">{props.Carbsper}%</p>
+            <p className="value">{props.Carbs}</p>
+            <p className="value">{props.Carbsper}%</p>
             </div>
             <div className ="displayinline hrNormal pl3">
             <p className="">Dietary Fiber</p>
-            <p className="">{props.Dfiber}</p>
-            <p className="">{props.Dfiberper}%</p>
+            <p className="value">{props.Dfiber}</p>
+            <p className="value">{props.Dfiberper}%</p>
             </div>
             <div className ="displayinline hrNormal pl3">
             <p className="">Total Sugars</p>
-            <p className="">{props.Tsugar}</p>
-            <p className="">{props.Tsugarper}%</p>
-            </div>
-            <div className ="displayinline hrNormal pl3">
-            <p className="">Includes </p>
-            <p className="">{props.includes} Added Sugars</p>
-            <p className="">{props.includesper}%</p>
+            <p className="value">{props.Tsugar}</p>
+            <p className="value">{props.Tsugarper}%</p>
             </div>
             <div className ="displayinline hrNormal ">
             <p className="b">Protein </p>
-            <p className="">{props.Protein}</p>
-            <p className="">{props.Proteinper}%</p>
+            <p className="value">{props.Protein}</p>
+            <p className="value">{props.Proteinper}%</p>
             </div>
             <div className ="displayinline hrNormal ">
             <p className="b">Vitamin D </p>
-            <p className="">{props.VD}</p>
-            <p className="">{props.VDper}%</p>
+            <p className="value">{props.VD}</p>
+            <p className="value">{props.VDper}%</p>
             </div>
             <div className ="displayinline hrNormal ">
             <p className="b">Calcium </p>
-            <p className="">{props.Calcium}</p>
-            <p className="">{props.Calciumper}%</p>
+            <p className="value">{props.Calcium}</p>
+            <p className="value">{props.Calciumper}%</p>
             </div>
             <div className ="displayinline hrNormal ">
             <p className="b">Iron  </p>
-            <p className="">{props.Iron}</p>
-            <p className="">{props.Ironper}%</p>
+            <p className="value">{props.Iron}</p>
+            <p className="value">{props.Ironper}%</p>
             </div>
             <div className ="displayinline hrNormal ">
             <p className="b">Potassium   </p>
-            <p className="">{props.Potassium}</p>
-            <p className="">{props.Potassiumper}%</p>
+            <p className="value">{props.Potassium}</p>
+            <p className="value">{props.Potassiumper}%</p>
             </div>
             <p>*Percent Daily Values are based on a 2000 calorie diet</p>
             </div>

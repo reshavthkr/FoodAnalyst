@@ -12,3 +12,26 @@
     margin-top: -20px;
     font-size: 30px;
 }
+@media only screen and (max-width: 767px) {
+    .Logo{
+        height: 50px;
+        width: 50px;
+    }
+    .LogoText{
+       font-size:  20px;
+       margin-top: -10px;
+    }
+}
+@media only screen 
+    and (min-device-width: 768px) 
+    and (max-device-width: 1024px) 
+    and (-webkit-min-device-pixel-ratio: 1) {
+        .Logo{
+            height: 75px;
+            width: 75px;
+            padding-top: 5px;
+        }
+        .LogoText{
+            margin-top: -15px;
+        }
+    }
