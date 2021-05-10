@@ -23,7 +23,7 @@
 @media only screen and (max-width: 767px) {
     .pheading{
         font-size: 22px;
-        text-align: center;
+        text-align: left;
         text-shadow: none;
     }
     .Image{
@@ -33,6 +33,7 @@
         height: auto;
         width: auto;
         margin: 0;
+        text-align: left;
         padding: 20px;
     }
     .Hero{
