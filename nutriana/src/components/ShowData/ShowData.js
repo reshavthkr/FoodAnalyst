@@ -37,7 +37,7 @@ class ShowData extends Component {
         fetch(`https://api.edamam.com/api/nutrition-data?app_id=b282b5ee&app_key=5461169c3679f8c9604c5320f414d3ed&ingr=${string}`)
         .then(res =>res.json())
         .then(json =>{
-            // console.log(json)
+            console.log(json)
             this.setState({
                 isLoaded : true,
                 calories : json.calories,

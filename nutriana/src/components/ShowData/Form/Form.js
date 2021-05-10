@@ -5,7 +5,7 @@ function Form(props) {
     return (
         <div className="FormDiv">
             <p>Enter an ingredient list list for what you are cooking,
-            like "1 cup rice, 10 oz chickpeas", etc. Enter each ingredient on a new line.</p>
+            like "50 gm chicken, 10 oz chickpeas", etc. Enter each ingredient on a new line.</p>
             <textarea className ="TextArea br4" onChange={props.inputchange}></textarea>
             <div className="ButtonDiv" >
                 
