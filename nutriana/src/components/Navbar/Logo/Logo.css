@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.Logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    flex-direction: column;
+}
+.LogoText{
+    font-family: 'Lobster', cursive;
+    color: #3fc532;
+    margin-top: -20px;
+    font-size: 30px;
+}

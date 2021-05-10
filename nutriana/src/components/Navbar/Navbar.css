@@ -1,0 +1,12 @@
+.NavBar{
+    position: sticky;
+    display: flex;
+    justify-content: start;
+    align-content: center;
+}
+.logo{
+    align-items: flex-start;
+}
+.link{
+    align-items: flex-end;
+}

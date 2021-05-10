@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+.Border{
+    border: 2px solid #3fc532;
+    display: flex;
+    color: #3f3d56;
+    font-size: 16px;
+}
+.hrNormal{
+    border-bottom: 1px solid #3fc532;
+}
+.Heading{
+    font-size: 3rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #3fc532;
+    border-bottom: 10px solid green;
+    margin-top: -1.5rem;
+}
+.amount{
+    text-align: left;
+    color: #3c1147;
+    margin-top: -2rem;
+    font-size: 20px
+}
+.displayinline{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -0.4rem;
+    
+}
+.calories{
+    font-size: 2rem;
+    margin-top: -2.5px;
+    
+}
+hr{
+    margin-top: -1.5rem;
+    border: 5px solid #3fc532;
+}
+.special{
+    display: flex;
+    justify-content: flex-end;
+    border-bottom: 1px solid #3fc532;
+}
+.b{
+    font-size: 20px;
+}

@@ -1,0 +1,6 @@
+.Border{
+    border: 1px solid #3fc532;
+    display: flex;
+    flex-direction: row;
+    padding: 3rem;
+}

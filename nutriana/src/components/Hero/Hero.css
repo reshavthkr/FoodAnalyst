@@ -1,0 +1,27 @@
+.Hero{
+    display: flex;
+    height: 380px;
+    background: linear-gradient(92.95deg, #C6F19E 10.38%, #95E465 10.4%, #C6F19E 10.41%, #95E465 44.96%, #C6F19E 82.28%, #9EE66F 96.45%);
+}
+.heading{
+    align-items: flex-start;
+    text-align: left;
+    margin-left: 50px;
+}
+.pheading{
+    color: #3f3d56;
+    font-size: 50px;
+    text-shadow: 2px 2px #626e65
+}
+.description{
+    color: #364d30;
+    align-items: flex-start;
+    margin-top: -50px;
+}
+.Image{
+    align-items: flex-end;
+    z-index: 1;
+    margin-top: 10px;
+    position: absolute;
+    right: 0;
+}

@@ -1,0 +1,28 @@
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 16px;
+    
+}
+li{
+    margin-left: 20px;
+    padding: 4px;
+}
+a{
+    color: #BCB7BD;
+    text-decoration: none;
+}
+a:active{
+    color: #3fc532;
+}
+.active{
+    color: #3fc532; 
+}
+.Link{
+    display: flex;
+    justify-content: center;
+    margin-left: 500px;
+    padding: 4px;
+}
