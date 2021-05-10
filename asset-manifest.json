@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/FoodAnalyst/static/css/main.23e4d0f6.chunk.css",
-    "main.js": "/FoodAnalyst/static/js/main.a391f383.chunk.js",
-    "main.js.map": "/FoodAnalyst/static/js/main.a391f383.chunk.js.map",
+    "main.js": "/FoodAnalyst/static/js/main.4db394a4.chunk.js",
+    "main.js.map": "/FoodAnalyst/static/js/main.4db394a4.chunk.js.map",
     "runtime-main.js": "/FoodAnalyst/static/js/runtime-main.ef6faadf.js",
     "runtime-main.js.map": "/FoodAnalyst/static/js/runtime-main.ef6faadf.js.map",
     "static/css/2.c1f4f5f4.chunk.css": "/FoodAnalyst/static/css/2.c1f4f5f4.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.c1f4f5f4.chunk.css",
     "static/js/2.f57891fe.chunk.js",
     "static/css/main.23e4d0f6.chunk.css",
-    "static/js/main.a391f383.chunk.js"
+    "static/js/main.4db394a4.chunk.js"
   ]
 }
